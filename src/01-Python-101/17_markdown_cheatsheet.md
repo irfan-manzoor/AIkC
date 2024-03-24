@@ -1,4 +1,4 @@
-## Headings
+# 1 - Headings
 
 # Heading 1
 ## Heading 2
@@ -7,21 +7,21 @@
 ##### Heading 5
 ###### Heading 6
 
-## 2 - Block of Words
+# 2 - Block of Words
 
-This is normal text
+This is normal text\
 > This is special text
 
-## 3 - Line breaks
+# 3 - Line breaks
 
 AI Ka Chilla with Dr Ammar Tufail.\
-AI Ka Chilla with Dr Ammar Tufail
+AI Ka Chilla with Dr Ammar Tufail.
 
-## 4 - Combine
+# 4 - Combine
 
 > _Heading 2_
 
-## 5 - Face of text
+# 5 - Face of text
 
 **Bold**    __Bold__
 
@@ -29,7 +29,7 @@ AI Ka Chilla with Dr Ammar Tufail
 
 ***Bold and Italic***
 
-## 6 - Bullet points
+# 6 - Bullet points
 
 - Variables
   - int
@@ -45,14 +45,14 @@ AI Ka Chilla with Dr Ammar Tufail
   - for
   - while
 
-## 7 - Page breaks
+# 7 - Page breaks
 ---
 This is Page 1
 ___
 This is Page 2
 ***
 
-## 8 - Links and Hyperlinks
+# 8 - Links and Hyperlinks
 
 <https://www.youtube.com>
 
@@ -62,11 +62,11 @@ This is Page 2
 
 This is [Youtube][Youtube]
 
-## 9 - Images and figures linking
+# 9 - Images and figures linking
 
 [Arch|10](Archlinux.png)
 
-## 10 - Block os codes
+# 10 - Block os codes
 
 `singles line code`
 
@@ -82,7 +82,7 @@ int main (){
 }
 ```
 
-## 11 - Tables
+# 11 - Tables
 
 | Species | Petals Length | Sepals Length |
 | --- | :---: | :---: |
@@ -91,7 +91,7 @@ int main (){
 | Virginica | 18.2 | 19.2 |
 | Virginica | 18.2 | 19.2 |
 
-## 12 - Table of Contents
+# 12 - Table of Contents
 
 [Headings](#headings)\
 [Block of words](#2---block-of-words)\
